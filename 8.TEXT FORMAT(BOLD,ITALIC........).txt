@@ -1,0 +1,25 @@
+<html>
+<title>Bold; Italic; Under line; Strike Through; Sub&Super Script;Strong</title>
+<body>
+<h1><font color ="red"><center> Text Format</center></font><h1>
+<p font size ="3" color ="blue"> in this we are using 7 commands to change text format,they are</p>
+bold(b)
+italic(i)<br>
+under line(u)<br>
+strike through(strike)<br>
+sub  script(sub)<br>
+super script(sup)<br>
+strong(strong)<br>
+<p font size ="3" color ="blue">These are the containar tags i.e thease have open and closed tags
+</p>
+<h3>examples:</h3>
+<b>BAPATLA SRAVAN</b><br>
+<i>BAPATLA SRAVAN</i><br>
+<u>BAPATLA SRAVAN</u><br>
+<strike>BAPATLA SRAVAN</strike><br>
+<strong>BAPATLA SRAVAN</strong><br>
+h<sub>2</sub>0<br>
+a<sup>2</sup>+b<sup>2</sup><br>
+
+</body>
+</html>
